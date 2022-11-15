@@ -17,7 +17,7 @@
 
 ---
 
-### :woman_technologist: About Me : My Name is Mazhar Hayat
+### :woman_technologist: My Name is Mazhar Hayat
 I am a Full Stack Developer, A software Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from UAE.
 - :telescope: I’m working as a Lead Engineer and contributing to Data, Frontend and Backend for building web applications.
 
@@ -25,7 +25,7 @@ I am a Full Stack Developer, A software Designer <img src="https://media.giphy.c
 
 - :zap: In my free time, I solve problems and do blogging.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/mazharhayyat/))
+- :mailbox:How to reach me: <a href="https://linkedin.com/in/https://www.linkedin.com/in/mazharhayyat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mazharhayyat/" height="30" width="40" /></a>
 
 ---
 
