@@ -9,10 +9,7 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=mahzar1783&style=flat-square&color=blue" alt=""/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+ 
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -24,9 +21,9 @@
 I am a Full Stack Developer, A software Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Lead Engineer and contributing to Data, Frontend and Backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Data Engineering and Science.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems and do blogging.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/mazharhayyat/))
 
@@ -47,7 +44,4 @@ I am a Full Stack Developer, A software Designer <img src="https://media.giphy.c
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahzar1783&" alt="mahzar1783" /></p>
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
