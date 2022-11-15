@@ -17,8 +17,8 @@
 
 ---
 
-### :woman_technologist: About Me :
-I am a Full Stack Developer, A software Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+### :woman_technologist: About Me : My Name is Mazhar Hayat
+I am a Full Stack Developer, A software Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from UAE.
 - :telescope: I’m working as a Lead Engineer and contributing to Data, Frontend and Backend for building web applications.
 
 - :seedling: Exploring Data Engineering and Science.
