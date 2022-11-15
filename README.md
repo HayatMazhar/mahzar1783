@@ -40,10 +40,11 @@ I am a Full Stack Developer, A software Designer <img src="https://media.giphy.c
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahzar1783&show_icons=true&locale=en&layout=compact" alt="mahzar1783" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahzar1783&show_icons=true&locale=en" alt="mahzar1783" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahzar1783&" alt="mahzar1783" /></p>
 ---
 
 ### :writing_hand: Blog Posts :
